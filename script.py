@@ -1,4 +1,5 @@
 // your code
+<<<<<<< HEAD
 
 def suma(a,b):
   c=a+b
@@ -6,3 +7,5 @@ def suma(a,b):
 
 def diff(a,b):
    return(a-b) 
+=======
+>>>>>>> parent of f6cb19d (dev1_commit)
