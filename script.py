@@ -1,5 +1,6 @@
 // your code
 
 def suma(a,b):
-  return(a+b)
+  c=a+b
+  return(c)
   
