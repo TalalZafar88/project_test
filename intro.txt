@@ -1,4 +1,4 @@
 Hello
-I am Talal
-I live in Rawalpindi
+I am <Name>
+I live in <City>
 Thanks!
