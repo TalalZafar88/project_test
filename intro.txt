@@ -1,4 +1,4 @@
 Hello
-I am Abdullah
-I live in Faisalabad
+I am <Name>
+I live in <City>
 Thanks!
